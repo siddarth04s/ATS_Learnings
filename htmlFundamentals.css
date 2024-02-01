@@ -1,0 +1,37 @@
+.img{
+    margin: 10px;
+    width: 30%;
+    height: 30%;
+    padding-left: 12rem;
+}
+
+.menu-container{
+    background-color: beige;
+}
+
+.menu-container li{
+   
+    padding: 30px;
+    display: inline;
+    
+}
+.menu-container li a{
+    text-decoration: none;
+    
+}
+a:hover{
+  background-color: cadetblue;
+}
+
+.table-class{
+   background-color: bisque;
+    margin-left: 30%;
+    padding: 30px ;
+}
+
+th,tr,td{
+    padding: 10px;
+    border: 2px solid rgb(72, 67, 60);
+}
+
+
