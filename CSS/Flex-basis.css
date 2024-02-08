@@ -1,0 +1,12 @@
+div{
+    flex-wrap: wrap;
+    display: flex;
+    padding: 10px;
+
+}
+.one{
+    background-color: cadetblue;
+    border: 2px solid;
+    margin: 1px;
+    flex-basis: 23%;
+}

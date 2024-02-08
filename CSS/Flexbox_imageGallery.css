@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(122, 116, 116);
+}
+.outer-container{
+    justify-content: space-between;
+}
+.Iname{
+    color:rgb(255, 232, 196);
+    font-size: 1.6em;
+    display: fixed;
+    margin-top: 5px;
+    padding: 1em;
+    text-align: center;
+}
+.image-outline{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+.image-outline>div{
+    width: 200px;
+    padding: 5px;
+}

@@ -1,0 +1,21 @@
+.b1{
+ background-color: aquamarine;
+ width: 100px;
+ height: 100px;
+}
+.b2{
+    background-color:brown;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 50px;
+    top:100px;
+    z-index: 2;
+}
+.b3{
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    z-index: 0;
+}

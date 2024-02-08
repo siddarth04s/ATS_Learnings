@@ -1,0 +1,13 @@
+/* p>a{
+    background-color: aquamarine;
+} */
+p::first-letter{
+    font-size: 2em;
+    text-shadow: 3px 2px  1px black;
+}
+a:link{
+    color: rgb(101, 192, 196);
+}
+a:visited{
+    color:brown;
+}

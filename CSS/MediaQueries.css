@@ -1,0 +1,10 @@
+p{
+background-color: antiquewhite;
+}
+@media (min-width:600px){
+    #para p{
+        width: 30%;
+        float: left;
+        padding: 3%;
+    }
+}
